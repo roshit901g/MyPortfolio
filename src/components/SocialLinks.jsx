@@ -5,7 +5,6 @@ import { BsFillPersonLinesFill } from "react-icons/bs";
 // import { resume } from "../assests/shahid.pdf";
 
 const SocialLinks = () => {
-  const file = "/shahid.pdf";
   const links = [
     {
       id: 1,

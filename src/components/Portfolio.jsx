@@ -1,12 +1,10 @@
 import React from "react";
-// import ReactTooltip from "react-tooltip";
-import { Tooltip, TooltipProvider, TooltipWrapper } from "react-tooltip";
+
+// import { Tooltip, TooltipProvider, TooltipWrapper } from "react-tooltip";
 
 import reactWeather from "../assests/portfolio/reactWeather.jpg";
 import foodrecipe from "../assests/portfolio/foodrecipe3.png";
 
-import installNode from "../assests/portfolio/installNode.jpg";
-import navbar from "../assests/portfolio/navbar.jpg";
 import crud from "../assests/portfolio/CRUD.jpg";
 // import {arratDestructure} from "../assests/portfolio/arrayDestruct.jpg"
 
