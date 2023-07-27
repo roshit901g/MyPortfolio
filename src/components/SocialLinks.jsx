@@ -13,7 +13,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedIn.com",
+      href: "www.linkedin.com/in/roshith-vk",
       style: "rounded-tr-md",
     },
     {
@@ -23,7 +23,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com.com",
+      href: "https://github.com/roshit901g",
     },
     {
       id: 3,
@@ -32,7 +32,7 @@ const SocialLinks = () => {
           Mail <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:abc@gmail.com",
+      href: "mailto:roshith901@gmail.com",
     },
     {
       id: 4,
@@ -41,7 +41,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/shahid .pdf",
+      href: "/Resume.pdf",
       style: "rounded-br-md",
       download: true,
     },

@@ -35,10 +35,10 @@ const Portfolio = () => {
     // },
   ];
 
-  const handleButton = (href) => {
-    // console.log(href);
-    window.open(href, "_blank");
-  };
+  // const handleButton = (href) => {
+  //   // console.log(href);
+  //   window.open(href, "_blank");
+  // };
   return (
     <div
       name="portfolio"
@@ -61,12 +61,12 @@ const Portfolio = () => {
                 className="rounded-md duration-300 hover:scale-105"
               />
               <div className="flex items-center justify-center">
-                <button
+                {/* <button
                   className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 "
                   onClick={() => handleButton(href)}
                 >
                   Code
-                </button>
+                </button> */}
                 <button className=" group w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                   Description
                   <span
