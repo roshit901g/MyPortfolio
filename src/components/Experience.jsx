@@ -5,7 +5,6 @@ import javascript from "../assests/javascript.png";
 import react from "../assests/react.png";
 import jquery from "../assests/jquery.png";
 import next from "../assests/nextjs.png";
-import node from "../assests/node.png";
 import nintex from "../assests/nintex.jpg";
 import tailwind from "../assests/tailwind.png";
 import github from "../assests/github.png";
