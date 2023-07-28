@@ -4,15 +4,17 @@ const About = () => {
   return (
     <div
       name="about"
-      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
+      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white justify-center flex"
     >
-      <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
+      <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full ">
+        {/* h-full */}
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             About Me
           </p>
         </div>
-        <p className="text-xl mt-20">
+        <p className="text-xl ">
+          {/* mt-20 */}
           Hi there! I am a passionate web developer with a love for building
           beautiful and functional websites. I have experience in HTML, CSS,
           JavaScript, and React.js. I am always eager to learn new technologies
@@ -22,7 +24,10 @@ const About = () => {
         <br />
         <p className="text-xl">
           I am constantly learning and exploring new technologies to improve my
-          skills.
+          skills.Seeking a career in an organization, having an environment that
+          encourages continuous learning and provides exposure to new
+          technologies, so as to achieve professional and personal growth along
+          with the organization.
         </p>
       </div>
     </div>
