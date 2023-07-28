@@ -92,7 +92,7 @@ const Experience = () => {
             Experience
           </p>
           <p className="py-6">
-            Coupled with my proficiency in React.JS &Javascript , my expertise
+            Coupled with my proficiency in React.JS & Javascript , my expertise
             in these technologies has enabled me to develop innovative solutions
             and tackle complex challenges effectively. These are the
             technologies I've worked with.
